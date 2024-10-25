@@ -1,0 +1,65 @@
+# Roller Club App
+
+Bem-vindo ao **Roller Club App**! Este aplicativo é um espaço seguro e colaborativo para praticantes de esportes e atividades ao ar livre, focado em conectar pessoas com interesses comuns, respeitando altos padrões de segurança e privacidade. 🌍🛼🚴‍♂️
+
+## 📋 Visão Geral
+O **Roller Club App** permite que usuários criem perfis e participem de eventos de forma segura, sabendo com quem estão se conectando. Com foco na proteção dos usuários, o app exige informações verificadas e oferece dados específicos e relevantes sobre os participantes.
+
+### Principais recursos:
+- **Criação de Perfil Verificado**: informações de identidade e segurança para confiança entre os participantes.
+- **Organização e Participação em Eventos** com faixa etária, nível de habilidade e modalidade específica.
+- **Mapeamento de Eventos e Interação Social** entre participantes para expandir a comunidade com segurança.
+
+## 🎯 Funcionalidades Principais
+
+### 1. **Cadastro Seguro e Perfil do Usuário**
+   - **Informações necessárias**: os usuários devem preencher um perfil completo com foto, nome completo, CPF, endereço, telefone e realizar uma confirmação facial para garantir a identidade.
+   - **Confirmação de veracidade e termos de uso**: todos os usuários aceitam os termos de compartilhamento de informações não sensíveis (como faixa etária, nível de habilidade e histórico de participação em eventos) para garantir um ambiente confiável.
+   - **Informações visíveis para participantes**:
+     - Faixa etária e nível de habilidade na modalidade escolhida.
+     - Histórico de eventos: número de eventos anteriores e avaliação de comportamento e assiduidade, por meio de estrelas.
+     - Tempo de uso da plataforma e outras avaliações de conduta.
+
+### 2. **Criação de Eventos com Níveis e Modalidades**
+   - Ao criar um evento, o organizador define:
+     - **Localização no mapa**.
+     - **Nível de dificuldade** do percurso e **faixa etária** recomendada.
+     - **Modalidade** e **subcategoria** (ex.: Patins: Quad, Urbano; Skate: Manobras; Bicicleta: Trilha, Manobras, etc.).
+   - Participantes interessados podem ver as informações do evento, além dos detalhes públicos dos participantes confirmados, promovendo confiança na escolha de eventos compatíveis com suas expectativas e habilidades.
+
+### 3. **Confirmação de Participação e Visão Geral dos Participantes**
+   - **Participação segura**: ao confirmar presença, os usuários têm acesso a detalhes da faixa etária e nível dos outros participantes, promovendo um ambiente seguro e alinhado com seu perfil.
+   - **Notificações e lembretes** sobre o evento e participantes, criando uma rede de segurança e engajamento entre os confirmados.
+
+### 4. **Privacidade e Compartilhamento de Dados**
+   - **Informações sensíveis**: dados como CPF, endereço e telefone são utilizados exclusivamente para segurança e só acessíveis para administradores do app em casos de emergência.
+   - **Aceite dos termos**: todos os usuários confirmam a veracidade de seus dados e aceitam os termos de uso e privacidade, incluindo o compartilhamento de informações não sensíveis para melhorar a experiência do aplicativo.
+   - **Sugestões de segurança**: o app permite que os usuários enviem sugestões para aprimorar as medidas de segurança, promovendo um ambiente cada vez mais seguro.
+
+### 5. **Mapeamento de Eventos e Modalidades**
+   - Mapa integrado ao Google Maps para localização dos eventos e navegação até o ponto de encontro.
+   - Notificações automáticas de novos eventos próximos, lembretes de participação, e anúncios de parceiros (com possibilidade de aceitar ou recusar recebimento de publicidade).
+
+## 🚧 Roadmap de Desenvolvimento
+- [ ] **Etapa 1**: Estruturação do app e sistema de login com verificação de identidade.
+- [ ] **Etapa 2**: Criação de perfis com faixa etária, verificação facial e preferência de modalidade.
+- [ ] **Etapa 3**: Implementação do sistema de eventos com mapa e detalhes de segurança.
+- [ ] **Etapa 4**: Sistema de avaliação de comportamento e notificação.
+- [ ] **Etapa 5**: Testes de segurança e refinamento da experiência do usuário.
+- [ ] **Etapa 6**: Publicação e lançamento do app.
+
+## 💻 Tecnologias Utilizadas
+- **Frontend**: React Native (compatível com Android e iOS)
+- **Backend**: Node.js com Express
+- **Banco de Dados**: MongoDB
+- **APIs**: Google Maps API (para localização e marcação de eventos)
+
+## 🤝 Contribuições
+Este projeto está aberto para contribuições! Caso tenha interesse em colaborar, faça um fork do repositório e envie seu pull request.
+
+## 📜 Licença
+Este projeto é licenciado sob a licença MIT.
+
+---
+
+Esse `README.md` agora comunica as medidas de segurança e privacidade de forma completa, o que ajuda a fortalecer a confiança dos usuários. Se precisar de mais ajustes ou outras ideias, posso ajudar a aprimorar ainda mais!
